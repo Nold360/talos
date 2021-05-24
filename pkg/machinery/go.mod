@@ -9,22 +9,21 @@ replace gopkg.in/yaml.v3 => github.com/unix4ever/yaml v0.0.0-20210315173758-8fb3
 require (
 	github.com/AlekSi/pointer v1.1.0
 	github.com/asaskevich/govalidator v0.0.0-20200907205600-7a23bdc65eef
-	github.com/containerd/containerd v1.4.4
-	github.com/containerd/go-cni v1.0.1
+	github.com/containerd/containerd v1.5.2
+	github.com/containerd/go-cni v1.0.2
 	github.com/dustin/go-humanize v1.0.0
 	github.com/evanphx/json-patch v4.9.0+incompatible
 	github.com/ghodss/yaml v1.0.0
 	github.com/golang/protobuf v1.5.1
 	github.com/hashicorp/go-multierror v1.1.1
 	github.com/onsi/ginkgo v1.15.0 // indirect
-	github.com/opencontainers/runtime-spec v1.0.3-0.20200520003142-237cc4f519e2
+	github.com/opencontainers/runtime-spec v1.0.3-0.20200929063507-e6143ca7d51d
 	github.com/stretchr/objx v0.3.0 // indirect
 	github.com/stretchr/testify v1.7.0
 	github.com/talos-systems/crypto v0.2.1-0.20210202170911-39584f1b6e54
 	github.com/talos-systems/go-blockdevice v0.2.1-0.20210322192639-776b37d31de0
 	github.com/talos-systems/net v0.2.1-0.20210212213224-05190541b0fa
 	github.com/talos-systems/os-runtime v0.0.0-20210303124137-84c3c875eb2b
-	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110 // indirect
 	golang.org/x/text v0.3.5 // indirect
 	google.golang.org/genproto v0.0.0-20210302174412-5ede27ff9881
 	google.golang.org/grpc v1.36.1
